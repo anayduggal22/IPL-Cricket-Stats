@@ -81,14 +81,16 @@ Run all cells in order. Charts will be saved automatically.
 
 ## 📁 Project Structure
 
+```
 ipl-stats-analyser/
 │
-├── cricket_stats.ipynb      # Main analysis notebook
-├── cricket_runs.png         # Runs distribution chart
-├── player_ranking.png       # Z-score ranking chart
-├── requirements.txt         # Dependencies
-├── .gitignore               # Files to ignore
-└── README.md                # This file
+├── cricket_stats.ipynb
+├── cricket_runs.png
+├── player_ranking.png
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 ---
 
 ## 🔍 Key Insights
